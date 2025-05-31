@@ -17,7 +17,7 @@ import java.util.Scanner;
 
 public class GoogleAdkToolsApplication {
 
-    private static String USER_ID = "varshini";
+    private static String USER_ID = "user";
     private static String NAME = "tool_agent";
 
     public static BaseAgent ROOT_AGENT = initAgent();
