@@ -68,7 +68,7 @@ POST http://localhost:8080/api/v1/chat
 Content-Type: application/json
 
 {
-  "sessionId": "varshini",
+  "sessionId": "user",
   "question": "What is the weather in New York?"
 }
 ```
