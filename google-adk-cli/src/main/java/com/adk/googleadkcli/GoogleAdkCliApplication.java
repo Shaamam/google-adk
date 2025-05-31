@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 public class GoogleAdkCliApplication {
 
-    private static String USER_ID = "varshini";
+    private static String USER_ID = "user";
 
     public static BaseAgent ROOT_AGENT = initAgent();
 
